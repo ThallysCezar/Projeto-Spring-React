@@ -34,8 +34,8 @@ INDEX VERSION 1.131+C:\Workspace\Projeto-DevSuperior\.metadata\.plugins\org.ecli
 3357909412.index
 2507594436.index
 2569461465.index
-2270751127.index
 718311250.index
+2270751127.index
 131071802.index
 1071326319.index
 1281534383.index
@@ -71,7 +71,6 @@ INDEX VERSION 1.131+C:\Workspace\Projeto-DevSuperior\.metadata\.plugins\org.ecli
 2858453059.index
 357164591.index
 2260884183.index
-1965174767.index
 1835388436.index
 3960537541.index
 4082698988.index
