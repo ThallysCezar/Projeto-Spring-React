@@ -6,6 +6,13 @@ Para acessar esse projeto, basta entrar no site: [Esse site](https://dsvendas-th
 
 ReactJs, TypeScript, Lib Axios, ChartJs, Java, SpringBoot, para deploy usei Netlify, do frontend, e o backend usei o Heroku.
 
-### `npm start`
+### Imagem do projeto
+<p style="align=center;">
+  <img src="https://github.com/ThallysCezar/Projeto-Spring-React/blob/main/frontend/src/assets/img/DsVendas-Home.jpeg" alt="image-home">
+</p>
 
-### imagem do projeto
+<p style="align=center;">
+  <img src="https://github.com/ThallysCezar/Projeto-Spring-React/blob/main/frontend/src/assets/img/DsVendas-Dashboard.jpeg" alt="image-dashboard">
+</p>
+
+
